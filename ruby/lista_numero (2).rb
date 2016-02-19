@@ -1,3 +1,0 @@
-lista = []
-
-    for numero in 
