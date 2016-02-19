@@ -1,0 +1,3 @@
+lista = []
+
+    for numero in 
