@@ -1,3 +1,3 @@
-# my-repository
+﻿# my-repository
 
-# este repositório é destinado aos meus scrips criados em ruby
+# este repositório é destinado aos meus scripts criados em ruby
